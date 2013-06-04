@@ -83,6 +83,10 @@
  - コードレビューに便利。
 * -S
  - 着目する行範囲を変更するコミットを見つける
+ - [@eielh](https://twitter.com/eielh)さんが、実例を交えて説明してくださってい
+   ます。thanks @eielh.
+  - [このコード書いたの誰だよ! そんな時の Git Log -S でもしてみよ
+    う](http://blog.eiel.info/blog/2013/06/04/git-log-s/)
 * --stat
  - ファイル名と変更量。
  - ちょっとした統計情報
